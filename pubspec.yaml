@@ -1,0 +1,11 @@
+name: sistem_perpustakaan
+description: A modular Dart CLI project for library system simulation.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+
+dev_dependencies:
+  lints: ^6.0.0
